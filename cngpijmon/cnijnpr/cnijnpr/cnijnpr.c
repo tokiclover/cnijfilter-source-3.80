@@ -35,6 +35,8 @@
 #include <sys/ioctl.h>
 #include <net/if.h>
 #include <sys/sysctl.h>
+#include <sys/types.h>
+#include <unistd.h>
 #include <config.h>
 #include <fcntl.h>
 
